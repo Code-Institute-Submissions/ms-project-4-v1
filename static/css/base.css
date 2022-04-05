@@ -3,11 +3,16 @@
 /*google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Merienda&family=Roboto&display=swap');
 
+html {
+    height: 100%;
+}
+
 body {
     background: url('/media/homepage_background.jpg') no-repeat center center fixed;
     background-size: cover;
     color: whitesmoke;
     font-family: Roboto;
+    height: calc(100vh - 56px);
 }
 
 /* -------------------------------- Header */
@@ -25,5 +30,5 @@ body {
 }
 
 .header-container{
-    padding-top: 200px;
+    padding-top: 56px;
 }
