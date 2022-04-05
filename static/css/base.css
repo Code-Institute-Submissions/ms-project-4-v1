@@ -9,3 +9,17 @@ body {
     color: whitesmoke;
     font-family: Roboto;
 }
+
+/* -------------------------------- Header */
+
+.bg-black {
+    background-color: black;
+}
+
+.text-orangered {
+    color: orangered;
+}
+
+.logo-font {
+    font-family: Merienda;
+}
