@@ -22,7 +22,7 @@ body {
 }
 
 .text-orangered {
-    color: orangered;
+    color: orangered !important;
 }
 
 .logo-font {
