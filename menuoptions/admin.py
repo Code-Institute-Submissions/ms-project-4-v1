@@ -25,5 +25,5 @@ class CategoryAdmin(admin.ModelAdmin):
     )
 
 
-admin.site.register(MenuOption)
-admin.site.register(Category)
+admin.site.register(MenuOption, MenuOptionAdmin)
+admin.site.register(Category, CategoryAdmin)
