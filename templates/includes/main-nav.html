@@ -8,10 +8,10 @@
                 Menu Options
             </a>
             <div class="dropdown-menu" aria-labelledby="all-products-link">
-                <a class="dropdown-item" href="#">Cold Pasta/Salads</a>
-                <a class="dropdown-item" href="#">Sandwiches/Wraps</a>
-                <a class="dropdown-item" href="#">Fruit/Snacks</a>
-                <a class="dropdown-item" href="#">Drinks</a>
+                <a class="dropdown-item" href="{% url 'products' %}?category=pasta_salad">Cold Pasta/Salads</a>
+                <a class="dropdown-item" href="{% url 'products' %}?category=sandwiches_wraps">Sandwiches/Wraps</a>
+                <a class="dropdown-item" href="{% url 'products' %}?category=fruit_snacks">Fruit/Snacks</a>
+                <a class="dropdown-item" href="{% url 'products' %}?category=drinks">Drinks</a>
                 <a class="dropdown-item" href="{% url 'products' %}">All Products</a>
             </div>
         </li>
