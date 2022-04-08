@@ -1,0 +1,123 @@
+[
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "name": "Ham & Cheese Wrap",
+            "price": 1.60,
+            "category": 2,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "name": "Cheese Sandwich (/White/Butter)",
+            "price": 1.50,
+            "category": 2,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "name": "Ham & Cheese Sandwich (White/Butter)",
+            "price": 1.50,
+            "category": 2,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "name": "Orange",
+            "price": 0.20,
+            "category": 1,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "name": "Pretzels",
+            "price": 0.60,
+            "category": 1,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "name": "Pancake",
+            "price": 0.30,
+            "category": 1,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "name": "Pasta Chicken & Sweetcorn",
+            "price": 1.80,
+            "category": 3,
+            "image_url": "",
+            "image": "Pasta.jpg"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+            "name": "Chicken Salad",
+            "price": 1.50,
+            "category": 3,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "name": "Still Water",
+            "price": 0.50,
+            "category": 4,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+            "name": "Apple Juice",
+            "price": 0.60,
+            "category": 4,
+            "image_url": "",
+            "image": ""
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+            "name": "Orange Juice",
+            "price": 0.60,
+            "category": 4,
+            "image_url": "",
+            "image": ""
+        }
+    }
+]
