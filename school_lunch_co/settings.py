@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-b4x!i$yo0ll2omlg*d4p=l-74zk!i#d+clyozncp9922%#91^^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ip-school-lunch-co.herokuapp.com', 'localhost']
 
 
 # Application definition
