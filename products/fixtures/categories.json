@@ -1,0 +1,34 @@
+[
+    {
+        "pk": 1,
+        "model": "products.category",
+        "fields": {
+            "name": "fruit_snacks",
+            "friendly_name": "Fruit/Snacks"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.category",
+        "fields": {
+            "name": "sandwiches_wraps",
+            "friendly_name": "Sandwiches/Wraps"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.category",
+        "fields": {
+            "name": "pasta_salad",
+            "friendly_name": "Cold Pasta/Salad"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.category",
+        "fields": {
+            "name": "drinks",
+            "friendly_name": "Drinks"
+        }
+    }
+]
